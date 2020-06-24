@@ -1,0 +1,81 @@
+.wrapper {
+  margin: 5em;
+}
+  h1 {
+  color: darkgreen;
+  font-family: cursive;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+}
+
+.header {
+  background-image: url("https://images.unsplash.com/photo-1496661415325-ef852f9e8e7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1399&q=80");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.myName {
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  font-family: cursive;
+}
+.slogan {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.description {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.col-6 {
+  text-align: right;
+  width: 37%;
+  margin-left: 15em;
+}
+.page-break {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+.hobbies {
+  text-align: center;
+}
+#carousel {
+  height: 25%;
+  width: 40%;
+  margin: auto;
+}
+h5 {
+  color: darkgreen;
+  text-align: center;
+}
+#contact-me {
+  border: .1em solid darkgreen;
+  color: darkgreen;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 1em;
+}
+a:hover {
+  transform: scale(1.2, 1.2);
+  color: darkgreen;
+}
+.profile {
+  margin: auto;
+  display: flex;
+  align-content: center;
+  text-align: center;
+  padding: 8.5%;
+  width: 200px;
+}
+h3 {
+  color: darkgreen;
+  text-align: center;
+  font-family: cursive;
+}
